@@ -3,4 +3,4 @@ import numpy as np
 from tensorflow import keras
 
 
-print(tf.__version__)
+print(tf.version)
